@@ -4,6 +4,7 @@ description = "Provides a namespace for tangu crates"
 repository = "https://github.com/gmosx/tangu-rust"
 keywords = ["tangu"]
 authors = ["George Moschovitis <george.moschovitis@gmail.com>"]
+license = "Apache-2.0"
 version = "0.1.0"
 edition = "2021"
 
